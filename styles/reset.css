@@ -1,0 +1,20 @@
+/*~ RESET CSS ~*/
+@charset "UTF-8";
+*{
+	border:none;
+	border-radius:0px 0px;
+	color:#000;
+	font-size:12px;
+	font-family:arial;
+	outline: 0px;
+	text-decoration:none;
+	list-style:none;
+	margin:0px 0px;
+	padding:0px 0px;
+}
+*:hover{
+	outline: 0px;
+}
+*:active{
+	outline: 0px;
+}
